@@ -1,0 +1,9 @@
+how to create 16gb ram in minecraft
+create codespaces on main 
+done. write: sudo apt update && apt upgrades
+done. write: wget (link download server.jar)
+done. write: java -Xmx8G -Xms4G -jar server.jar nogui
+done. quit your codespaces and click edit codespaces: auto delete codespaces: false
+done. click change type machine adjusted into 4-core click save changes
+done. come back in codespaces and write java -Xmx16G -Xms15G -jar server.jar nogui
+doneeeeeeeeeeeeeeeeeeee
