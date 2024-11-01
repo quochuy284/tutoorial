@@ -7,3 +7,13 @@ done. quit your codespaces and click edit codespaces: auto delete codespaces: fa
 done. click change type machine adjusted into 4-core click save changes
 done. come back in codespaces and write java -Xmx16G -Xms15G -jar server.jar nogui
 doneeeeeeeeeeeeeeeeeeee
+bản dịch tiếng việt(Vietnamese translation)
+cách tạo ram 16gb trong minecraft
+tạo không gian mã trên chính 
+xong. viết: cập nhật sudo apt && nâng cấp apt
+xong. viết: wget (link tải server.jar)
+xong. viết: java -Xmx8G -Xms4G -jar server.jar nogui
+xong. thoát khỏi vùng mã của bạn và nhấp vào chỉnh sửa vùng mã: tự động xóa vùng mã: false
+xong. bấm thay đổi loại máy được điều chỉnh thành 4 lõi bấm lưu thay đổi
+xong. quay lại không gian mã và viết java -Xmx16G -Xms15G -jar server.jar nogui
+xong rồiiiiiiiiiiiii
